@@ -5,7 +5,7 @@
 ---
 
 ### 🎯 About Me  
-🎓 I'm a **Computer Science student** at the **Federal University of Ceará (UFC)** passionate about **software development, automation, and intelligent systems**.  
+🎓 I'm a **Software Engineering student** at the **Federal University of Ceará (UFC)** passionate about **software development, automation, and intelligent systems**.  
 💡 I enjoy transforming ideas into practical and well-structured applications using **Angular, TypeScript, and APIs**.  
 🚀 Currently exploring **AI integrations** and **workflow automations** to enhance productivity and innovation.
 
@@ -25,7 +25,8 @@
 #### 💻 Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
