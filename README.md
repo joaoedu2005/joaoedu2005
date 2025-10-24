@@ -70,4 +70,4 @@
 
 ---
 
-> “Technology is best when it brings people together.” – *Matt Mullenweg*
+> “Everything is a copy of a copy of a copy.” – ***********
