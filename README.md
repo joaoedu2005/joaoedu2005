@@ -14,7 +14,7 @@
 ### 🧠 Current Focus  
 - Front-end development with **Angular**  
 - **Manual and Automated Tests** with Cypress, Postman, Swagger  
-- **API automation** using tools like *n8n*  
+- **Task automation** using tools like *n8n*  
 - Building **AI-assisted systems** for startups and university projects  
 - Expanding my knowledge in **Full Stack Development** and **Quality Assurance**
 
