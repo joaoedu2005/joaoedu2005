@@ -2,7 +2,7 @@
 
 ### Software Engineer | QA Engineer | Front-End Developer
 
-[cite_start]I am a Software Engineering student at **UFC** [cite: 48] [cite_start]and currently a **Front-End Developer with a QA focus at VittaHub**[cite: 16]. [cite_start]I specialize in building high-performance, reliable interfaces and using code to eliminate repetitive manual work through scalable automation[cite: 7, 10].
+I am a Software Engineering student at **UFC** and currently a **Front-End Developer with a QA focus at VittaHub**. I specialize in building high-performance, reliable interfaces and using code to eliminate repetitive manual work through scalable automation.
 
 ---
 
@@ -27,22 +27,20 @@
 
 ## 📈 Key Impact & Achievements
 
-* [cite_start]**80% Operational Workload Reduction:** Developed an AI automation system (n8n + RAG) for the Municipal Inspection Service, maintaining 95% uptime[cite: 18, 46].
-* [cite_start]**Rapid MVP Delivery:** Led technical execution and quality validation for an e-commerce platform, delivering a functional MVP in 30 days[cite: 17, 36].
-* [cite_start]**High-Performance Healthcare Solutions:** Developing reusable component libraries and reducing visual inconsistencies for medical platforms at VittaHub[cite: 22, 24, 25].
-* [cite_start]**Shift-Left Implementation:** Ensuring quality from early stages by validating business rules and critical user flows[cite: 11, 28].
+* **80% Operational Workload Reduction:** Developed an AI automation system (n8n + RAG) for the Municipal Inspection Service, maintaining 95% uptime.
+* **Rapid MVP Delivery:** Led technical execution and quality validation for an e-commerce platform, delivering a functional MVP in 30 days.
+* **High-Performance Healthcare Solutions:** Developing reusable component libraries and reducing visual inconsistencies for medical platforms at VittaHub.
+* **Shift-Left Implementation:** Ensuring quality from early stages by validating business rules and critical user flows.
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="490" src="https://github-readme-stats.vercel.app/api?username=joaoedu2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoedu2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoedu2005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoedu2005&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoedu2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -53,4 +51,4 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://webportfoliojeog.netlify.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoeduasi@gmail.com)
 
-> *"Everything is a copy of a copy of a copy"*
+> *"Everything is a copy of a copy of a copy."*
