@@ -4,6 +4,10 @@
 
 I am a Software Engineering student at **UFC** and currently a **Front-End Developer with a QA focus at VittaHub**. I specialize in building high-performance, reliable interfaces and using code to eliminate repetitive manual work through scalable automation.
 
+Have practical expertise in planning and executing test cases, automating critical flows, and 
+validating REST APIs. Also work with SQL for data validation, Git for version control, and 
+front-end development using React, Next.js, and TypeScript.
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -31,17 +35,6 @@ I am a Software Engineering student at **UFC** and currently a **Front-End Devel
 * **Rapid MVP Delivery:** Led technical execution and quality validation for an e-commerce platform, delivering a functional MVP in 30 days.
 * **High-Performance Healthcare Solutions:** Developing reusable component libraries and reducing visual inconsistencies for medical platforms at VittaHub.
 * **Shift-Left Implementation:** Ensuring quality from early stages by validating business rules and critical user flows.
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoedu2005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoedu2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
