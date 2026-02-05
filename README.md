@@ -1,55 +1,42 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm João Eduardo Girão! 🚀
 
-###
+### Software Engineer | QA Engineer | Full Stack Developer
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I am a Software Engineering student at **UFC** and currently a **Front-End Developer with a QA focus at VittaHub**. I specialize in building high-performance, reliable interfaces and using code to eliminate repetitive manual work through scalable automation.
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🛠️ Tech Stack & Skills
 
-###
+- **Front-End:** React, Next.js, TypeScript, and TailwindCSS.
+- **QA & Automation:** Cypress (UI Automation), Postman/Insomnia (API Testing), and Shift-Left testing strategies.
+- **AI & Efficiency:** n8n, RAG (Retrieval-Augmented Generation), and API integrations.
+- **Tools & Infra:** SQL, Git, Jira, Redis, VPS, and Scrum methodology.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 📈 Key Impact & Achievements
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+* **80% Operational Workload Reduction:** Developed an AI automation system (n8n + RAG) for the Municipal Inspection Service, processing over 600 articles with 95% uptime.
+* **Rapid MVP Delivery:** Led the technical execution and quality validation for an e-commerce platform, delivering a functional MVP in 30 days.
+* **High-Performance Healthcare Solutions:** Developing responsive interfaces and reusable component libraries for medical platforms at VittaHub, focusing on dynamic data density.
+* **Shift-Left Implementation:** Consistently reducing production bugs by integrating functional and exploratory testing from the earliest stages of development.
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🎓 Education & Certifications
 
-###
+* **B.S. in Software Engineering** – Federal University of Ceará (UFC) | Expected March 2026.
+* **QA Intensive Course** – EBAC.
+* **Nest.js from Zero to Advanced** – Udemy HCode.
+* **Languages:** Portuguese (Native), English (Professional Working - B2).
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 📫 Let's Connect
 
-<h3 align="left">🔥   My Stats :</h3>
+- **Email:** joaoeduardogirao@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/joaoedugirao/
+- **Portfolio:** https://webportfoliojeog.netlify.app/
 
-###
+> *"Everything is a copy of a copy of a copy"*
