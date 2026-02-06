@@ -1,8 +1,8 @@
 # Hi, I'm João Eduardo Girão! 🚀
 
-### Software Engineer | QA Engineer | Front-End Developer
+### Software Engineer | QA Engineer | Full Stack Developer
 
-I am a Software Engineering student at **UFC** and currently a **Front-End Developer with a QA focus at VittaHub**. I specialize in building high-performance, reliable interfaces and using code to eliminate repetitive manual work through scalable automation.
+I am a Software Engineering student at **UFC** and currently a **Developer with a QA focus at VittaHub**. I specialize in building high-performance, reliable interfaces and using code to eliminate repetitive manual work through scalable automation.
 
 Have practical expertise in planning and executing test cases, automating critical flows, and 
 validating REST APIs. Also work with SQL for data validation, Git for version control, and 
